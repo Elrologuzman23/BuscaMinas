@@ -1,0 +1,14 @@
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\bin\Debug\netcoreapp3.1\BuscaMinas.exe
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\bin\Debug\netcoreapp3.1\BuscaMinas.deps.json
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\bin\Debug\netcoreapp3.1\BuscaMinas.runtimeconfig.json
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\bin\Debug\netcoreapp3.1\BuscaMinas.runtimeconfig.dev.json
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\bin\Debug\netcoreapp3.1\BuscaMinas.dll
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\bin\Debug\netcoreapp3.1\BuscaMinas.pdb
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.csproj.AssemblyReference.cache
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.AssemblyInfoInputs.cache
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.AssemblyInfo.cs
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.csproj.CoreCompileInputs.cache
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.dll
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.pdb
+C:\Users\camil\Desktop\BuscaMinas\BuscaMinas\obj\Debug\netcoreapp3.1\BuscaMinas.genruntimeconfig.cache
